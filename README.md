@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jayasuryan0821
-- 👀 I’m interested in Machine Learning, DeepLearning and GenAO
+- 👀 I’m interested in Machine Learning, DeepLearning and GenAI
 - 🌱 I’m currently learning DeepLearning 
 - 💞️ I’m looking to collaborate on GenAI and DeepLearning
 
