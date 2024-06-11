@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayasuryan Mutyala</h1>
 <h3 align="center">Passionate about Deep Learning, Neural Networks, and Financial Analysis</h3>
 
-- 🔭 I’m currently working on [Stock news sentimental analysis](https://github.com/Jayasuryan0821/Sentiment_Analysis_Stock-)
 
 - 🌱 I’m currently learning **Tensorflow, PyTorch and NLTK**
 
